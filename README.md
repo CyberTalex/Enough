@@ -1,7 +1,7 @@
 <h2>Kurulum</h2>
 
 ```console
-git clone https://github.com/tingirifistik/Enough.git
+git clone https://github.com/CyberTalex/Enough.git
 ```
 ```
 cd Enough
